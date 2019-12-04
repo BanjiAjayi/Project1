@@ -10,17 +10,17 @@ we have been tasked by a renovation company to find out.
 We decide on a five prong, douable flank attck stragey.
 this ment that we both tackled the same problems at the same time 
 The five prongs consised of:
-prong 1 cleaning
-prong 2 eda
-prong 3 
-prong 4
-prong 5 
+-prong 1 cleaning
+-prong 2 eda
+-prong 3 
+-prong 4
+-prong 5 
  
 # Findings
 we found that r
 
 ## Files
-index.ipynb                         Here you will find our main techinacal notebook 
+index.ipynb 15 x &nbsp;                         Here you will find our main techinacal notebook 
 functions.ipynb                     show all of the fuction writton
 Cleaning code & notes.ipynb         here is all of the code uesed to clean the data 
 here is all of the code uesed to clean the data 
