@@ -1,46 +1,39 @@
-Our group consised of Matt Newton & Banji Ajayi 
-
-# intro
-we have been tasked by a renovation company to find out.
+## Intro
+Our Team consisting of Matt Newton & Banji Ajayi have been tasked by a renovation company to find out:
 1. Does the house price go down as the age of the building increase?
-2. Does the the house price go down as time since renovation increases?
-3. where to find 
+2. Does the house price go down as time since renovation increases?
+3. Where's the best place to market?
 
-# Methodology
-We decide on a five prong, douable flank attck stragey.
-this ment that we both tackled the same problems at the same time 
-The five prongs consised of:
--prong 1 cleaning
--prong 2 eda
--prong 3 
--prong 4
+## Methodology
+We decide on a five-prong, double flank attack strategy.
+this meant that we both tackled the same problems at the same time 
+The five prongs consisted of:
+-prong 1 Data cleaning
+-prong 2 Exploratory data analysis
+-prong 3 Modeling
+-prong 4 Visualization
 -prong 5 
  
-# Findings
-we found that r
+## Findings
+we found that:
+1. The older the building the less it will sell for.
+2. That a renovated building will sell for more.
+3. The best house to market to are over the age of 54 years and in the suburbs.
 
 ## Files
-index.ipynb (15 x &nbsp;)                         Here you will find our main techinacal notebook 
-functions.ipynb                     show all of the fuction writton
-Cleaning code & notes.ipynb         here is all of the code uesed to clean the data 
-here is all of the code uesed to clean the data 
+index.ipynb ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Here you will find our main techinacal notebook 
+functions.ipynb ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Show all of the fuction writton
+Cleaningcode&notes.ipynb ~~~~~~~~~~~~~~~~~~~~~~~~~ The code uesed to clean the data 
 
 
-Task Delegation:
+## Task Delegation:
 
-Cleaning : Matt & Banji
-EDA: Matt & Banji
-function: Matt
-Modeling: Matt & Banji
-Corr matrix: Matt & Banji
-Heatmap: Banji
-Folium map: Matt
-Regresion modeling: Matt
-Powerpoint: Matt
-
-
-Name the members in your project group
-Be aimed at a non-technical audience
-Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.
-Provide a high-level overview of your methodology and findings
-Provide task delegations (who worked on what)
+- Cleaning: Matt & Banji
+- EDA: Matt & Banji
+- function: Matt
+- Modelling: Matt & Banji
+- Corr matrix: Matt & Banji
+- Heatmap: Banji
+- Folium map: Matt
+- Regression odelling: Matt
+- Powerpoint: Matt
