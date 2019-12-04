@@ -1,22 +1,24 @@
 ## Intro
 Our Team consisting of Matt Newton & Banji Ajayi have been tasked by a renovation company to find out:
-1. Does the house price go down as the age of the building increase?
-2. Does the house price go down as time since renovation increases?
+1. Does the house price change as the age of the building increase?
+1b. renovaed vs non renovated 
+2. For houes of simmler class (normerlzed) does renovation affect price
 3. Where's the best place to market?
 
 ## Methodology
 We decide on a five-prong, double flank attack strategy.This meant that we both tackled the same problems at the same time 
 The five prongs consisted of:
-- prong 1 Data cleaning
-- prong 2 Exploratory data analysis
-- prong 3 Modeling
-- prong 4 Visualization
-- prong 5 
+- Data cleaning
+- Exploratory data analysis
+- Modeling
+- Visualization
+- Finalizing  
  
 ## Findings
 We found that:
 1. The older the building the less it will sell for.
-2. That a renovated building will sell for more.
+1b. That a renovated building will sell for more.
+2. Yes 
 3. The best house to market to are over the age of 54 years and in the suburbs.
 
 ## Files
