@@ -3,9 +3,9 @@
 ## !!!Please head to README in Master folder!!!
 
 ## Master Folder:
-Main techincal notebook - insight and findings
-Data cleaning code
-Functions Code
+-Main techincal notebook - insight and findings
+-Data cleaning code
+-Functions Code
 Extra  
 
 ## Banji Folder:
