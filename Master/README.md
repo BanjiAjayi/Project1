@@ -22,10 +22,10 @@ We found that:
 4. The best house to market to are over the age of 54 years and in the suburbs.
 
 ## Files
-index.ipynb ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Here you will find our main techinacal notebook 
-functions.ipynb ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Shows all of the fuction writton
-cleaningcode&notes.ipynb ~~~~~~~~~~~~~~~~~~~~~~~~~ The code uesed to clean the data
-presentation.pdf ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Non-technical presentation
+- index.ipynb ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Here you will find our main techinacal notebook 
+- functions.ipynb ~~~~~~~~~~~~~~~~~~~~~~~~~~~ Shows all of the fuction writton
+- cleaningcode&notes.ipynb ~~~~~~~~~~~~~~~~~~ The code uesed to clean the data
+- presentation.pdf ~~~~~~~~~~~~~~~~~~~~~~~~~~ Non-technical presentation
 
 
 ## Task Delegation:
